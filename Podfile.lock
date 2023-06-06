@@ -1,0 +1,36 @@
+PODS:
+  - ADCountryPicker (2.1.0)
+  - FloatingPanel (2.6.1)
+  - IQKeyboardManagerSwift (6.5.11)
+  - Koloda (5.0.1):
+    - pop (~> 1.0)
+  - pop (1.0.12)
+  - Shuffle-iOS (0.5.0)
+
+DEPENDENCIES:
+  - ADCountryPicker (~> 2.1.0)
+  - FloatingPanel
+  - IQKeyboardManagerSwift
+  - Koloda
+  - Shuffle-iOS
+
+SPEC REPOS:
+  trunk:
+    - ADCountryPicker
+    - FloatingPanel
+    - IQKeyboardManagerSwift
+    - Koloda
+    - pop
+    - Shuffle-iOS
+
+SPEC CHECKSUMS:
+  ADCountryPicker: 502cee76a30ea1c3834eb0df170ce635691655c9
+  FloatingPanel: de6bb891912ede28da7b1140f7b583c474fec28a
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  Koloda: d07b9199a383abc5898b62aa945a599f5e7c0c4b
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  Shuffle-iOS: ff33658fb1e5eebd6a4724c156473e63754be9cb
+
+PODFILE CHECKSUM: c18cab1201e377b16c25115589cec8fc4a53732f
+
+COCOAPODS: 1.12.0
